@@ -1,6 +1,6 @@
 // Function to show a greeting message
 function showGreeting() {
-	alert("Hello! Welcome to my basic website.");
+	alert("Hello! Welcome to my website.");
     }
     
     // Function to change the header color when button is clicked
